@@ -1,5 +1,7 @@
 # PiQ Setup
 
+I want to deploy a raspberry Pi to provide some services on my home network. Maybe in the future Ill add more services. For now PiHole and PiVPN will do.
+
 ## Preparation
 
 Im using **Windows 11** and the **Terminal** application to do this project and have already <u> reserved a static IP </u> on my router.
